@@ -1,0 +1,6 @@
+Hello world!
+This is a small test file.
+We will try to replace the word test with something else.
+Let's see if this test is successful.
+The word test should be replaced 3 times.
+Test test test.
